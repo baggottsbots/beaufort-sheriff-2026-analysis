@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baggottsbots.github.io/beaufort-sheriff-2026-analysis/sitemap.xml
